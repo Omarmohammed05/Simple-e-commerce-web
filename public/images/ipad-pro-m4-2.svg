@@ -1,0 +1,7 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" aria-label="iPad Pro alt">
+  <rect width="100%" height="100%" fill="#0b0b0c"/>
+  <g transform="translate(150,80)">
+    <rect x="0" y="0" width="900" height="640" rx="40" fill="#1a1d22" stroke="#2b2f36" stroke-width="2"/>
+    <rect x="20" y="40" width="860" height="560" rx="28" fill="#a78bfa"/>
+  </g>
+</svg>

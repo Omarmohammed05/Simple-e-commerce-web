@@ -1,0 +1,8 @@
+<svg width="900" height="900" viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg" aria-label="AirPods Pro 2 alt">
+  <rect width="100%" height="100%" fill="#0b0b0c"/>
+  <g transform="translate(200,260)">
+    <rect x="0" y="0" width="500" height="280" rx="40" fill="#1a1d22" stroke="#2b2f36" stroke-width="2"/>
+    <rect x="120" y="-60" width="100" height="200" rx="50" fill="#22c55e"/>
+    <rect x="360" y="-60" width="100" height="200" rx="50" fill="#22c55e"/>
+  </g>
+</svg>

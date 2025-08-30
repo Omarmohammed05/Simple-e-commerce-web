@@ -1,0 +1,77 @@
+[
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "category": "iPhone",
+    "image": "/images/iphone-15-pro.svg",
+    "gallery": ["/images/iphone-15-pro.svg", "/images/iphone-15-pro-2.svg", "/images/iphone-15-pro-3.svg"],
+    "description": "Titanium. A17 Pro chip. Pro camera system.",
+    "specs": {
+      "Chip": "A17 Pro",
+      "Display": "6.1‑inch Super Retina XDR",
+      "Camera": "48MP main, 12MP ultra‑wide, 12MP telephoto",
+      "Battery": "All‑day battery life"
+    },
+    "popularity": 95
+  },
+  {
+    "id": "ipad-pro-m4",
+    "name": "iPad Pro (M4)",
+    "price": 1199,
+    "category": "iPad",
+    "image": "/images/ipad-pro-m4.svg",
+    "gallery": ["/images/ipad-pro-m4.svg", "/images/ipad-pro-m4-2.svg"],
+    "description": "Ultra‑thin design. M4 performance. OLED display.",
+    "specs": {
+      "Chip": "Apple M4",
+      "Display": "Ultra Retina XDR",
+      "Pencil": "Apple Pencil Pro support"
+    },
+    "popularity": 90
+  },
+  {
+    "id": "macbook-air-m3",
+    "name": "MacBook Air (M3)",
+    "price": 1299,
+    "category": "Mac",
+    "image": "/images/macbook-air-m3.svg",
+    "gallery": ["/images/macbook-air-m3.svg", "/images/macbook-air-m3-2.svg"],
+    "description": "Superlight. M3 power. All‑day battery.",
+    "specs": {
+      "Chip": "Apple M3",
+      "Display": "13.6‑inch Liquid Retina",
+      "Battery": "Up to 18 hours"
+    },
+    "popularity": 85
+  },
+  {
+    "id": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "price": 799,
+    "category": "Watch",
+    "image": "/images/apple-watch-ultra-2.svg",
+    "gallery": ["/images/apple-watch-ultra-2.svg", "/images/apple-watch-ultra-2-2.svg"],
+    "description": "Adventure ready. Brightest display.",
+    "specs": {
+      "Chip": "S9 SiP",
+      "Display": "3000 nits",
+      "Battery": "36 hours"
+    },
+    "popularity": 88
+  },
+  {
+    "id": "airpods-pro-2",
+    "name": "AirPods Pro (2nd Gen)",
+    "price": 249,
+    "category": "Accessories",
+    "image": "/images/airpods-pro-2.svg",
+    "gallery": ["/images/airpods-pro-2.svg", "/images/airpods-pro-2-2.svg"],
+    "description": "H2 chip. Adaptive Audio.",
+    "specs": {
+      "Chip": "H2",
+      "Features": "ANC, Transparency, Adaptive Audio"
+    },
+    "popularity": 80
+  }
+]
