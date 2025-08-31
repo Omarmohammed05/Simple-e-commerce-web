@@ -1,9 +1,12 @@
 {
+  "homepage": "https://omarmohammed05.github.io/Simple-e-commerce-web/",
   "name": "apple-like-ecommerce",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
